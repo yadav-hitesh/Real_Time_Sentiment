@@ -1,3 +1,3 @@
 # Real Time Sentiment Analysis Application
 
-![Real Time Sentiment Analysis Application](https://ibb.co/42sQH09/Sentiment-Analysis)
+![Real Time Sentiment Analysis Application](https://i.postimg.cc/BZds9pkn/Sentiment-Analysis.png)
